@@ -52,5 +52,15 @@ let gameCounter = 100
 // console.log(undefined > 0);
 // console.log(undefined < 0);
 
+const heros = ["skita", "amit", "ankit"];
+let myObj = {
+    name: "kundan",
+    age: 22,
+}
+
+const myFunction = function(){
+    console.log("hello world");
+}
+
 
 
